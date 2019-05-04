@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{2B87BCC7-62F6-20D2-EDB7-5AADF28DE178}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Paddle.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Block.cs">
     <Files>
       <File FileName="Assets/Scripts/LoseCollider.cs" Line="13" Column="1" />
-      <File FileName="Assets/Scripts/Paddle.cs" Line="16" Column="25" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="10" Column="22" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="36" Column="14" />
+      <File FileName="Assets/Scripts/Block.cs" Line="8" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +12,7 @@
           <Node name="Breakout Clone" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="Paddle.cs" selected="True" />
+                <Node name="Block.cs" selected="True" />
               </Node>
             </Node>
           </Node>
