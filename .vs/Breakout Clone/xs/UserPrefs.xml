@@ -1,10 +1,13 @@
 ﻿<Properties StartupConfiguration="{2B87BCC7-62F6-20D2-EDB7-5AADF28DE178}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Paddle.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RestartGame.cs">
     <Files>
       <File FileName="Assets/Scripts/LoseCollider.cs" Line="13" Column="1" />
-      <File FileName="Assets/Scripts/Paddle.cs" Line="10" Column="22" />
-      <File FileName="Assets/Scripts/Ball.cs" Line="36" Column="14" />
-      <File FileName="Assets/Scripts/Block.cs" Line="8" Column="7" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="22" Column="65" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="59" Column="24" />
+      <File FileName="Assets/Scripts/Block.cs" Line="20" Column="32" />
+      <File FileName="Assets/Scripts/Level.cs" Line="22" Column="33" />
+      <File FileName="Assets/Scripts/StartGame.cs" Line="16" Column="17" />
+      <File FileName="Assets/Scripts/RestartGame.cs" Line="15" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +15,7 @@
           <Node name="Breakout Clone" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="Paddle.cs" selected="True" />
+                <Node name="RestartGame.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -22,7 +25,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cbc75b61-4060-4a63-a11c-ab2e7c26b5f2" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="434fbe05-d3b6-4c30-8777-0ddd939f280e" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
