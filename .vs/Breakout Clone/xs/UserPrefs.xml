@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{2B87BCC7-62F6-20D2-EDB7-5AADF28DE178}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Block.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Paddle.cs">
     <Files>
       <File FileName="Assets/Scripts/LoseCollider.cs" Line="13" Column="1" />
       <File FileName="Assets/Scripts/Paddle.cs" Line="10" Column="22" />
@@ -12,22 +12,17 @@
           <Node name="Breakout Clone" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="Block.cs" selected="True" />
+                <Node name="Paddle.cs" selected="True" />
               </Node>
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Breakout Clone" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eea1c17f-9dc9-479c-94f6-0a4bd91e3e74" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cbc75b61-4060-4a63-a11c-ab2e7c26b5f2" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
